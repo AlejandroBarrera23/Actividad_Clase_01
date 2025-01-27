@@ -5,6 +5,7 @@ Este es un programa de consola desarrollado en **C#** que incluye múltiples fun
 ## 📂 Estructura del Proyecto
 
 - **`Program.cs`:** Archivo principal que contiene el menú del programa.
+- - **`Ejecutable/`:** En esta carpeta se encuentra el archivo .exe para ejecutar el programa
 - **`Opciones/`:** Carpeta que contiene las diferentes funcionalidades del programa:
   - `AdivinaNumero.cs`: Juego para adivinar un número entre 1 y 100.
   - `EdadParaVotar.cs`: Verifica si el usuario tiene la edad suficiente para votar.
